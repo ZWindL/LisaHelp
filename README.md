@@ -40,6 +40,12 @@ XX 为城市名称，例如 `Lisa: 北京天气`
 ```
 查询中文维基百科词条
 
+### 查询 arch wiki
+```
+!wiki entry
+```
+查询 arch wiki 中相应的词条，只在 #archlinux-cn 频道响应此命令
+
 直接触发的命令
 ------
 ### fortune
