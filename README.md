@@ -71,6 +71,12 @@ Lisa: 笑话
 ```
 返回 ip\_addr 所在的粗略地理位置, 暂不支持 ipv6
 
+### idea generator
+```
+!idea
+```
+无参数返回一条[ideaGenerator](http://www.matrix67.com/ideagen/)的话语
+
 直接触发的命令
 ------
 ### fortune
